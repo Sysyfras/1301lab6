@@ -1,5 +1,7 @@
 using System;
 
+//I don't know what the point of this lab is now.
+
 class Program
 {
     public static void Main(string[] args)
